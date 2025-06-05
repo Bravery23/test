@@ -13,6 +13,7 @@ This project is a simple **Speech-to-Speech** assistant for Vietnamese language 
 
 📁 File video: [`https://drive.google.com/file/d/1ch4VySBBoOVNcGiAUpLhX0HGRW2CLFSk/view?usp=sharing`](Demo.mp4)
 
+🎬 [Xem video demo tại đây](https://drive.google.com/file/d/1ch4VySBBoOVNcGiAUpLhX0HGRW2CLFSk/view?usp=sharing)
 ---
 
 ## 📄 Báo cáo đồ án
