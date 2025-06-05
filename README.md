@@ -9,16 +9,9 @@ This project is a simple **Speech-to-Speech** assistant for Vietnamese language 
 ---
 
 ## 🧪 Demo Video
-<style>
-  video {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
 <video src="Demo.mp4" controls autoplay loop muted></video>
 
-📁 File video: [`demo/demo_video.mp4`](Demo.mp4)
+📁 File video: [`Demo.mp4`](Demo.mp4)
 
 ---
 
@@ -26,5 +19,4 @@ This project is a simple **Speech-to-Speech** assistant for Vietnamese language 
 
 📑 Xem file báo cáo tại đây:
 
-- PDF: [`report/bao_cao_do_an.pdf`](report/bao_cao_do_an.pdf)
-- hoặc Word: [`report/bao_cao_do_an.docx`](report/bao_cao_do_an.docx)
+- PDF: [`NLP_DL_Assignment_PTITHCM-3`](report)
