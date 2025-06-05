@@ -11,7 +11,7 @@ This project is a simple **Speech-to-Speech** assistant for Vietnamese language 
 ## 🧪 Demo Video
 <video src="Demo.mp4" controls autoplay loop muted></video>
 
-📁 File video: [`Demo.mp4`](Demo.mp4)
+📁 File video: [`https://drive.google.com/file/d/1ch4VySBBoOVNcGiAUpLhX0HGRW2CLFSk/view?usp=sharing`](Demo.mp4)
 
 ---
 
