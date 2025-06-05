@@ -8,16 +8,7 @@ This project is a simple **Speech-to-Speech** assistant for Vietnamese language 
 
 ---
 
-## 🧪 Demo Video
-<video src="https://drive.google.com/file/d/1ch4VySBBoOVNcGiAUpLhX0HGRW2CLFSk/view?usp=sharing" controls autoplay loop muted></video>
+## 📦 Nội dung
 
-📁 File video: [`https://drive.google.com/file/d/1ch4VySBBoOVNcGiAUpLhX0HGRW2CLFSk/view?usp=sharing`](Demo.mp4)
-
-🎬 [Xem video demo tại đây](https://drive.google.com/file/d/1ch4VySBBoOVNcGiAUpLhX0HGRW2CLFSk/view?usp=sharing)
----
-
-## 📄 Báo cáo đồ án
-
-📑 Xem file báo cáo tại đây:
-
-- PDF: [`NLP_DL_Assignment_PTITHCM-3`](report)
+- 🎬 [Video Demo](https://drive.google.com/file/d/1ch4VySBBoOVNcGiAUpLhX0HGRW2CLFSk/view?usp=sharing)
+- 📄 [Báo Cáo Đồ Án](report/BaoCaoDoAn.pdf)
